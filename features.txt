@@ -1,0 +1,15 @@
+Price
+Revenue
+P/B ratio
+Asset turnover
+Cash at end of period
+Cash from operating activities
+Cash from investing activities
+Cash from financing activities
+Cumulative dividends per share
+P/E ratio
+Cash change during period
+Assets
+Equity to assets ratio
+Liabilities
+Book value of equity per share
